@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-Also on Github [here](https://github.com/tnakada)
+Also on Github [@tnakada](https://github.com/tnakada)
 
 <!---
 taikann/taikann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
